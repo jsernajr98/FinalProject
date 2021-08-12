@@ -1,0 +1,43 @@
+.box1{
+    border-width: 1px; 
+    border-style: solid;
+    border-color:rgb(39, 34, 34) ;
+  }
+  
+  .box2{
+    padding: 4px;
+  }
+  
+  .box3{
+    margin: 9px;
+  }
+
+
+
+  .iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .contactbox
+  {
+    border: rgb(39, 34, 34);
+    font-style: italic;
+
+  }
+
+  .fancy
+  {
+      font-size: 8px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: skyblue;}
+    
